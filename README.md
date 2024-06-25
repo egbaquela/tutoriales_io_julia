@@ -28,4 +28,5 @@ Apuntes de la cátedra de Investigación Operativa de la [Facultad Regional San 
 * VALENCIA NUÑEZ (2018): “Investigación Operativa. Programación lineal, problemas resueltos con soluciones detalladas”. Editorial de la Universidad Técnica de Ambato.
 * LUEMBERGER D.- YE Y. (2021) “Linear and nonlinear programming, 5ed”. Springer
 * CUZZOLIN F. (2021) “The Geometry of Uncertainty - The Geometry of Imprecise Probabilities”. Springer 
-* GARCIA-ALCARAZ J., REALYVÁSQUEZ A., FLORES E. (2021) “Trends in Industrial Engineering Applications to Manufacturing Process”. * * WOLSEY L. (2021)“Integer programming”. Springer.
+* GARCIA-ALCARAZ J., REALYVÁSQUEZ A., FLORES E. (2021) “Trends in Industrial Engineering Applications to Manufacturing Process”.
+* WOLSEY L. (2021)“Integer programming”. Springer.
