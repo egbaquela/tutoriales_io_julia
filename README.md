@@ -2,7 +2,7 @@
 Apuntes de la cátedra de Investigación Operativa de la [Facultad Regional San Nicolás - Universidad Tecnológica Nacional](https://www.frsn.utn.edu.ar/) (FRSN-UTN)
 
 ## Profesores
-* Enrique Gabriel Baquela [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egbaquela)
+* Enrique Gabriel Baquela [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egbaquela)
 * María Alejandra Olmos
 * José Ernesto Valentini
 
