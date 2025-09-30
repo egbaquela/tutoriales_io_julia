@@ -1,4 +1,6 @@
 # Apuntes de Investigación Operativa (usando Julia)
+[![DOI](https://zenodo.org/badge/819444335.svg)](https://doi.org/10.5281/zenodo.17237785)
+
 Apuntes de la cátedra de Investigación Operativa de la [Facultad Regional San Nicolás - Universidad Tecnológica Nacional](https://www.frsn.utn.edu.ar/) (FRSN-UTN).
 
 ## Equipo de cátedra
@@ -56,4 +58,23 @@ Apuntes de la cátedra de Investigación Operativa de la [Facultad Regional San 
 - Waki, H., Shinano, Y., & Fujisawa, K. (Eds.). (2015). *Optimization in the real world: Toward solving real-world optimization problems* (Mathematics for Industry, Vol. 13). Springer. https://doi.org/10.1007/978-4-431-55420-2
 
 - Wolsey, L. A. (2020). *Integer programming* (2nd ed.). Wiley.
+
+## Cómo citar
+
+Si utilizás este material, citá así (APA 7):
+
+**Con DOI (preferido):**  
+Baquela, E. G. (2025). *Tutoriales de Investigación Operativa con Julia* (v0.0.1-alpha) [Repositorio y materiales]. GitHub; Zenodo. https://doi.org/10.5281/zenodo.17237785
+
+### BibTeX
+```bibtex
+@software{Baquela_Tutoriales_IO_Julia_2025,
+  author    = {Baquela, Enrique Gabriel},
+  title     = {Tutoriales de Investigación Operativa con Julia},
+  version   = {v0.0.1-alpha},
+  year      = {2025},
+  month     = {09},
+  url       = {https://github.com/egbaquela/tutoriales_io_julia},
+  note      = {Repositorio y materiales educativos (Julia, JuMP, MLJ)}
+}
 
