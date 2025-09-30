@@ -3,7 +3,7 @@ Apuntes de la cátedra de Investigación Operativa de la [Facultad Regional San 
 
 ## Equipo de cátedra
 ### Miembros actuales
-* Enrique Gabriel Baquela [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egbaquela)
+* Enrique Gabriel Baquela [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/egbaquela)
 * Juan José Cardinali [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://ar.linkedin.com/in/juan-cardinali-ab2479115)
 * María Guadalupe Salguero [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/guadalupesalguero/)
 ### Antiguos miembros
