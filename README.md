@@ -3,34 +3,57 @@ Apuntes de la cátedra de Investigación Operativa de la [Facultad Regional San 
 
 ## Equipo de cátedra
 ### Miembros actuales
-* Enrique Gabriel Baquela [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/egbaquela)
-* Juan José Cardinali [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://ar.linkedin.com/in/juan-cardinali-ab2479115)
-* María Guadalupe Salguero [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/guadalupesalguero/)
+* Enrique Gabriel Baquela [![text](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/egbaquela)
+* Juan José Cardinali [![text](https://i.sstatic.net/gVE0j.png)](https://ar.linkedin.com/in/juan-cardinali-ab2479115)
+* María Guadalupe Salguero [![text](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/guadalupesalguero/)
 ### Antiguos miembros
 * María Alejandra Olmos
-* José Ernesto Valentini [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)]( https://ar.linkedin.com/in/jos%C3%A9-ernesto-valentini/es)
+* José Ernesto Valentini [![text](https://i.sstatic.net/gVE0j.png)]( https://ar.linkedin.com/in/jos%C3%A9-ernesto-valentini/es)
 
 ## Bibliografía utilizada (principal)
-* EPPEN, GOULD y otros (2000): "Investigación de Operaciones en la ciencia administrativa" México. Prentice Hall.
-* WINSTON (2005): "Investigación de Operaciones. Aplicaciones y algoritmos”. Thomson
-* HILLIER y LIEBERMAN (2006): “Introducción a la investigación de operaciones”. McGraw Hill., México.
-* TAHA (2004): "Investigación de Operaciones”. México. Pearson.
-* BAQUELA y REDCHUCK (2013): “Optimizacion Matematica con R. Volumen I”. Bubok Publishing. https://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf
-* KWON CHANGHYUN (2021): “Julia Programming for Operations Research, 2ed”, https://juliabook.chkwon.net/book
+
+- Baquela, E. G., & Redchuk, A. (2013). *Optimización matemática con R. Volumen I: Introducción al modelado y resolución de problemas*. Bubok Publishing. https://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf
+
+- Eppen, G. D., & Gould, F. J. (2000). *Investigación de operaciones en la ciencia administrativa: Construcción de modelos para la toma de decisiones con hojas de cálculo electrónicas*. Pearson Educación.
+
+- Hillier, F. S., & Lieberman, G. J. (2006). *Introducción a la investigación de operaciones* (8.ª ed.). McGraw-Hill Interamericana.
+
+- Kwon, C. (2019). *Julia programming for operations research* (2nd ed.). https://juliabook.chkwon.net/book
+
+- Taha, H. A. (2004). *Investigación de operaciones* (7.ª ed.). Pearson Educación.
+
+- Winston, W. L. (2005). *Investigación de operaciones: Aplicaciones y algoritmos*. Thomson.
+
 
 ## Bibliografía utilizada (consulta)
-* GASS S. (1990) “An Illustrated Guide to Linear Programming”. Estados Unidos. Dover Publications Inc.
-* MATHUR K. Y SOLOW D. (1996) ”Investigación de operaciones. El arte de la toma de decisiones”. México. Prentice Hall.
-* TRIANTAPHYLLOU, SHU, NIETO SANCHEZ Y RAY (1998) “Multi-Criteria Decision Making: An Operations Research Approach. Encyclopedia of Electrical and Electronics Engineering”. John Wiley & Sons
-* ANDERSON, D- SWEENEY, D – WILLIAMS,T (2004): “Métodos Cuantitativos para los negocios”. México Thomson Editores.
-* HILLIER F. - HILLIER M (2008): “Métodos cuantitativos para administración” McGraw Hill. Tercera Edición , México.
-* RENDER, B – STAIR, R – HANNA, M (2006): “Métodos cuantitativos para negocios” México. Pearson.
-* POIASINA, M. R., STURLA, C. R. L. (2007) “Investigación Operativa – Programación lineal, entera, generalidades, no lineal, simulación”. Editorial Universidad de la Marina Mercante.
-* GASS S. (2011) “Linear Programming: Methods and Applications: Fifth Edition”. Estados Unidos. Dover Publications Inc.
-* SALLÁN, LORDAN y FERNANDEZ (2015): Modeling and solving linear programming with R. OmniaScience.
-* WAKI H.– SHINANO Y. – FUJITAWA K. (2016) “Optimization in the Real World: Toward Solving Real-World Optimization Problems”. Japón. Springer.
-* VALENCIA NUÑEZ (2018): “Investigación Operativa. Programación lineal, problemas resueltos con soluciones detalladas”. Editorial de la Universidad Técnica de Ambato.
-* LUEMBERGER D.- YE Y. (2021) “Linear and nonlinear programming, 5ed”. Springer
-* CUZZOLIN F. (2021) “The Geometry of Uncertainty - The Geometry of Imprecise Probabilities”. Springer 
-* GARCIA-ALCARAZ J., REALYVÁSQUEZ A., FLORES E. (2021) “Trends in Industrial Engineering Applications to Manufacturing Process”.
-* WOLSEY L. (2021)“Integer programming”. Springer.
+
+- Anderson, D. R., Sweeney, D. J., & Williams, T. A. (2006). *Métodos cuantitativos para los negocios* (9.ª ed.). Pearson Educación.
+
+- Cuzzolin, F. (2021). *The geometry of uncertainty: The geometry of imprecise probabilities*. Springer. https://doi.org/10.1007/978-3-030-63153-6
+
+- García-Alcaraz, J. L., Realyvásquez-Vargas, A., & Z.-Flores, E. (Eds.). (2021). *Trends in Industrial Engineering Applications to Manufacturing Process*. Springer. https://doi.org/10.1007/978-3-030-71579-3
+
+- Gass, S. I. (1990). *An illustrated guide to linear programming*. Dover Publications.
+
+- Gass, S. I. (2010). *Linear programming: Methods and applications* (5th ed.). Dover Publications.
+
+- Hillier, F. S., & Hillier, M. S. (2008). *Métodos cuantitativos para administración* (3.ª ed.). McGraw-Hill Interamericana.
+
+- Luenberger, D. G., & Ye, Y. (2021). *Linear and nonlinear programming* (5th ed.). Springer. https://doi.org/10.1007/978-3-030-85450-8
+
+- Mathur, K., & Solow, D. (1996). *Investigación de operaciones: El arte de la toma de decisiones*. Prentice Hall Hispanoamericana.
+
+- Poiasina, M. R., & Sturla, C. L. R. (2007). *Investigación operativa: Programación lineal, entera, generalidades, no lineal, simulación*. Universidad de la Marina Mercante (UdeMM).
+
+- Render, B., Stair, R. M., & Hanna, M. E. (2006). *Métodos cuantitativos para los negocios* (9.ª ed.). Pearson Educación.
+
+- Sallán, J. M., Lordan, O., & Fernández, V. (2015). *Modeling and solving linear programming with R*. OmniaScience.
+
+- Triantaphyllou, E., Shu, B., Sánchez, S. N., & Ray, T. (1998). Multi-criteria decision making: An operations research approach. En J. G. Webster (Ed.), *Encyclopedia of Electrical and Electronics Engineering* (Vol. 15, pp. 175–186). John Wiley & Sons.
+
+- Valencia Núñez, E. R., & Hidalgo Vargas, C. J. (2018). *Investigación operativa: Programación lineal, problemas resueltos con soluciones detalladas*. Universidad Técnica de Ambato.
+
+- Waki, H., Shinano, Y., & Fujisawa, K. (Eds.). (2015). *Optimization in the real world: Toward solving real-world optimization problems* (Mathematics for Industry, Vol. 13). Springer. https://doi.org/10.1007/978-4-431-55420-2
+
+- Wolsey, L. A. (2020). *Integer programming* (2nd ed.). Wiley.
+
