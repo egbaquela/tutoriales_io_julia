@@ -3,12 +3,12 @@ Apuntes de la cátedra de Investigación Operativa de la [Facultad Regional San 
 
 ## Equipo de cátedra
 ### Miembros actuales
-* Enrique Gabriel Baquela [![text](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/egbaquela)
-* Juan José Cardinali [![text](https://i.sstatic.net/gVE0j.png)](https://ar.linkedin.com/in/juan-cardinali-ab2479115)
-* María Guadalupe Salguero [![text](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/guadalupesalguero/)
+* Enrique Gabriel Baquela [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/egbaquela) [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/egbaquela) [GoogleScholar](https://scholar.google.com/citations?user=j_c7ZkIAAAAJ&hl=en) [Sitio web](https://www.egbaquela.com.ar)
+* Juan José Cardinali [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://ar.linkedin.com/in/juan-cardinali-ab2479115)
+* María Guadalupe Salguero [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/guadalupesalguero/)
 ### Antiguos miembros
 * María Alejandra Olmos
-* José Ernesto Valentini [![text](https://i.sstatic.net/gVE0j.png)]( https://ar.linkedin.com/in/jos%C3%A9-ernesto-valentini/es)
+* José Ernesto Valentini [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]( https://ar.linkedin.com/in/jos%C3%A9-ernesto-valentini/es)
 
 ## Bibliografía utilizada (principal)
 
